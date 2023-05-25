@@ -6,9 +6,16 @@
       "password": "12345",
       "check": "on",
       "id": 1
+    },
+    {
+      "name": "subrat",
+      "email": "subratnayak847@gmail.com",
+      "password": "123",
+      "check": "on",
+      "id": 2
     }
   ],
-  "appointments":[
+  "appointments": [
     {
       "name": "Jane Doe",
       "image": "https://example.com/doctor-image.jpg",
